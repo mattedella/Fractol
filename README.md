@@ -169,7 +169,7 @@ make
 
 ## 🧠 Math Concepts Used
 
-- Complex numbers: represented as *a + bi*
+- Complex numbers: represented as **a + bi**
 - Escape-time algorithm for rendering
 - Color mapping based on iteration count
 - Zoom using coordinate transformation
